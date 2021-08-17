@@ -8,7 +8,7 @@ buildscript {
             url 'http://maven.aliyun.com/nexus/content/groups/public/'
         }
         google()
-        mavenCentral()
+        mavenCentral()  //poc-1111
     }
     dependencies {
         classpath "com.android.tools.build:gradle:3.4.1"
